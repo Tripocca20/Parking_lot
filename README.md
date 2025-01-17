@@ -1,4 +1,4 @@
-# Experiment 2 Parking lot problem
+# Parking lot problem
 1) Content:
 Assume that the parking lot is a long and narrow passage that can park n cars, and there is only one gate for cars to enter and exit.  
 In the parking lot, the cars are arranged from north to south in the order of their arrival time (the gate is at the southernmost end, and the first
